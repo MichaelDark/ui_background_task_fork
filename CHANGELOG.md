@@ -1,3 +1,9 @@
+## 0.2.0
+
+* Fix error when `taskStopWatchTimer` attempted to be disposed twice
+* Updated sdk: ">=3.5.0 <4.0.0"
+* Updated flutter: ">=3.24.0"
+
 ## 0.1.3
 
 * Updated description
